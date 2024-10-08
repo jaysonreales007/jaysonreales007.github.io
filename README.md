@@ -17,7 +17,7 @@ I'm a [your profession or hobbyist title] based in [your location]. I love to cr
 Here are a few of my favorite projects:
 
 - **[Personal Portfolio](https://github.com/jaysonreales007/portfolio)**: 
-- **[Cat Town Generation Calculator(https://github.com/jaysonreales007/cat-town-calculator)**: 
+- **[Cat Town Generation Calculator](https://github.com/jaysonreales007/cat-town-calculator)**: 
 - **[Ecommerce with Blockchain Payment Integration](https://github.com/jaysonreales007/apcia-ecommerce-with-blockchain)**: 
 
 ## 🌱 I’m currently learning
