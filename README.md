@@ -1,10 +1,8 @@
 # 👋 Hi there! I'm Jayson Reales!
 
-![Animated GIF](https://your-animated-gif-url-here.gif)
-
 ## 🚀 About Me
 
-I'm a [Full-stack developer] based in [Philippines]. I love to create, learn, and share knowledge about [Blockchain Technology].
+I'm a Full-stack developer based in Philippines. I love to create, learn, and share knowledge about Blockchain Technology.
 
 ## 🌟 Skills
 
