@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a [your profession or hobbyist title] based in [your location]. I love to create, learn, and share knowledge about [your interests or technologies you work with].
+I'm a [Full-stack developer] based in [Philippines]. I love to create, learn, and share knowledge about [Blockchain Technology].
 
 ## 🌟 Skills
 
